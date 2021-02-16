@@ -14,9 +14,6 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-webflux:2.4.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.4.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.4.2" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.3" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.3" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.4.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-logging:2.4.2" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.2.3" level="project" />
@@ -54,6 +51,38 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-web:5.3.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webflux:5.3.3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-sleuth:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-context:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-crypto:5.4.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-commons:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-rsa:1.0.9.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.bouncycastle:bcpkix-jdk15on:1.64" level="project" />
+    <orderEntry type="library" name="Maven: org.bouncycastle:bcprov-jdk15on:1.64" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-aop:2.4.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.3" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjweaver:1.9.6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-sleuth-autoconfigure:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.3" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjrt:1.9.6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-sleuth-otel-autoconfigure:1.0.0-M3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-sleuth-instrumentation:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-sleuth-api:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-sleuth-otel:1.0.0-M3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.3" level="project" />
+    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-api:0.14.1" level="project" />
+    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-context:0.14.1" level="project" />
+    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-semconv:0.14.1" level="project" />
+    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-sdk-common:0.14.1" level="project" />
+    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-sdk-trace:0.14.1" level="project" />
+    <orderEntry type="library" name="Maven: io.opentelemetry.instrumentation:opentelemetry-instrumentation-api:0.14.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
+    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-extension-trace-propagators:0.14.1" level="project" />
+    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-exporter-logging:0.14.1" level="project" />
+    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-sdk:0.14.1" level="project" />
+    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-sdk-metrics:0.14.1-alpha" level="project" />
+    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-api-metrics:0.14.1-alpha" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-starter-test:2.4.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test:2.4.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:2.4.2" level="project" />
@@ -61,7 +90,6 @@
     <orderEntry type="library" scope="TEST" name="Maven: net.minidev:json-smart:2.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: net.minidev:accessors-smart:1.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.ow2.asm:asm:5.0.4" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: jakarta.activation:jakarta.activation-api:1.2.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.assertj:assertj-core:3.18.1" level="project" />
@@ -82,7 +110,6 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.skyscreamer:jsonassert:1.5.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:5.3.3" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:5.3.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.7.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: io.projectreactor:reactor-test:3.4.2" level="project" />
